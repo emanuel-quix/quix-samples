@@ -34,5 +34,6 @@
     "ValidateConnection": false,
     "BlobStorage": {
       "Bind": true
+    }
   }
 }
